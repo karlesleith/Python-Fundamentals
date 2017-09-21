@@ -1,3 +1,6 @@
+#Factoral Division in Python
+#Author Karle Sleith
+
 import math
 
 def my_factoral():

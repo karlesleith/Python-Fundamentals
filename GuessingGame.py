@@ -1,4 +1,5 @@
-#Guessing Game
+#Guessing Game in Python
+#Author Karle Sleith
 
 import random
 from random import randint

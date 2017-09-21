@@ -1,3 +1,6 @@
+#Fizzbuzz Problem in Python
+#Author Karle Sleith
+
 import math
 
 for n in list(range(0,101)):
